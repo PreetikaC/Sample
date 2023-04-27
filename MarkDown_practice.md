@@ -21,3 +21,6 @@ _This is italics_
 
  - level2
 
+1. item1
+2. item2
+   1. item1
