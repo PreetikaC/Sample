@@ -30,3 +30,54 @@ Stellar Information Technology Pvt. Ltd. (Gurgaon)
 (April 2018 – Feb 2019)              Senior Technical Writer                                                                           
 
 (June 2015 - March 2018)          Technical Writer
+
+___
+## Key Responsibilities
+
+- Efficiently handled a team of  2 members and provided them guidance to achieve the team’s goals.
+- Managed complete documentation of User Guides using Adobe RoboHelp, Help+Manual, Adobe Photoshop, and SnagIT.
+- Produced content for documentation as per the company’s standards and processes. 
+- Proofreaded UI text and Web help for localization into FRENCH, GERMAN, ITALIAN, and SPANISH.
+- Participated in technical reviews of authored content.
+- Updated documentation on a regular basis to reflect the changes in the product.
+- Worked closely with the distributed teams (Development, Test, and Product Management) for information to ensure technical accuracy.
+- Prepared and reviewed documentation plans for the products.
+- Participated in Usability discussions for products.
+
+---
+## Tools Used                                                         
+- [x] **CCMS Tool**                                                   
+      
+- ClickHelp                                                         
+  
+- [x] **Authoring Tools**
+
+- Oxygen XML
+
+- Adobe RoboHelp
+
+- Help + Manual
+
+- [x] **Screen Capture Tools**
+
+- Adobe Photoshop
+
+ - SnagIt
+
+- Lightshot Screenshot
+
+- [x] **Diagram Tools**
+
+- Draw.io
+
+
+---
+## Technical Skills                                                  
+- [x] **Languages Kwon**                                                   
+      
+- HTML
+- SQL
+- C
+- C++
+- Core Java                                                        
+
