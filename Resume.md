@@ -1,6 +1,14 @@
 # PREETIKA CHAWLA – SENIOR TECHNICAL WRITER
 
-<img src="./images/profile.jpg" alt="Profile Picture" width="200" height="200">
+<img src="./images/me.jpg" width="200" height="200">
+
+
+<img src="URL_of_your_image" alt="Your Name" width="200" height="200">
+
+## Education
+...
+
+
 320/T-4, Purvanchal Royal City, Chi-V, Greater Noida | Phone: +91 9873911356 | Email: preetikachawla93@gmail.com
 ___
 ## Summary
