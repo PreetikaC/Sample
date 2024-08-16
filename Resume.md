@@ -1,9 +1,7 @@
 # PREETIKA CHAWLA – SENIOR TECHNICAL WRITER
 
-<img src="./images/me.jpg" width="200" height="200">
+<img src="https://github.com/PreetikaC/Sample/blob/main/me.jpg" width="200" height="200">
 
-
-<img src="URL_of_your_image" alt="Your Name" width="200" height="200">
 
 ## Education
 ...
