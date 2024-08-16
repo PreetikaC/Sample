@@ -1,5 +1,7 @@
 # PREETIKA CHAWLA – SENIOR TECHNICAL WRITER
-320/T-4, Purvanchal Royal City, Greater Noida | Phone: +91 9873911356 | Email: preetikachawla93@gmail.com
+
+<img src="./images/profile.jpg" alt="Profile Picture" width="200" height="200">
+320/T-4, Purvanchal Royal City, Chi-V, Greater Noida | Phone: +91 9873911356 | Email: preetikachawla93@gmail.com
 ___
 ## Summary
 
@@ -11,7 +13,7 @@ Committed to professional growth, I continually update my skills and knowledge i
 ___
 ## Work History 
 
-GreyOrange Pvt. Ltd. (Gurgaon)
+**GreyOrange Pvt. Ltd. (Gurgaon)**
 
    (Feb 2019 - Present)                     Senior Technical Writer
 ___
@@ -25,7 +27,7 @@ ___
 - Managed and maintained accurate, up-to-date documentation across multiple CCMS platforms for seamless user access.
 - Developed and maintained a comprehensive knowledge base, significantly improving user satisfaction through easy access to critical information.
 ___
-Stellar Information Technology Pvt. Ltd. (Gurgaon)
+**Stellar Information Technology Pvt. Ltd. (Gurgaon)**
 
 (April 2018 – Feb 2019)              Senior Technical Writer                                                                           
 
@@ -73,11 +75,65 @@ ___
 
 ---
 ## Technical Skills                                                  
-- [x] **Languages Kwon**                                                   
+- [x] **Programming Languages**                                                   
       
 - HTML
+- CSS
 - SQL
 - C
 - C++
-- Core Java                                                        
+- Core Java
+- Markdown
+
+ - [x] **Project Management**
+- Confluence
+- Jira
+
+- [x] **Other Skills**
+- UX Writing
+- Github                           
+
+---
+## Certifications and Projects
+✓ Microsoft Office Specialist (MOS) Certification for Office PowerPoint, Office Word 2010.
+
+✓ Microsoft Technology Associate (MTA) Certification for Microsoft .NET Fundamentals.
+
+✓ Summer Training
+
+Duration:	4 weeks | Institution:	APTECH 
+
+- PROJECT:  Employee Attendance System
+
+   Developed using Java language (basic)
+  
+Developed a system for the management of personal details of employees of an organization, to reduce the amount of manual work and errors. The user can check the attendance by entering a few personal details of the respective employee.
+
+ - PROJECT: Credit Card Management System
+
+Developed using HTML, JavaScript
+
+The Credit Card Management System is a Windows-based application that takes care of the complete internal Card Processing activities. 
+
+
+---
+## Education
+
+### B. Tech Information Technology (2011 - 2015)
+**PDM College of Engineering, Bahadurgarh**
+- Graduated with 74%
+
+### Class XII - CBSE (2011)
+**South Point Public School, Sonepat**
+- Scored 77.2%
+
+### Class X - CBSE (2008)
+**Little Angels Sec. School, Sonepat**
+- Scored 72.6%
+
+---
+
+
+
+(Preetika Chawla)
 
