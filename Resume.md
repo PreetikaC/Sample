@@ -3,9 +3,6 @@
 <img src="https://github.com/PreetikaC/Sample/blob/main/me.jpg" width="200" height="200">
 
 
-## Education
-...
-
 
 320/T-4, Purvanchal Royal City, Chi-V, Greater Noida | Phone: +91 9873911356 | Email: preetikachawla93@gmail.com
 ___
@@ -70,13 +67,14 @@ ___
 
 - Adobe Photoshop
 
- - SnagIt
+- SnagIt
 
 - Lightshot Screenshot
 
 - [x] **Diagram Tools**
 
 - Draw.io
+- Canva
 
 
 ---
