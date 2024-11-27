@@ -1,14 +1,13 @@
 # PREETIKA CHAWLA – SENIOR TECHNICAL WRITER
 
-<img src="https://github.com/PreetikaC/Sample/main/me.jpg" width="200" height="200">
+<img src="https://github.com/PreetikaC/Sample/blob/main/me.jpg" width="200" height="200">
 
-<img src="https://raw.githubusercontent.com/PreetikaC/Sample/main/images/me.jpg"  width="200" height="200">
 
 320/T-4, Purvanchal Royal City, Chi-V, Greater Noida | Phone: +91 9873911356 | Email: preetikachawla93@gmail.com
 ___
 ## Summary
 
-I have been a Senior Technical Writer in the tech industry for over nine years, expert in crafting comprehensive user manuals, detailed release notes, SOPs, and quick reference guides. I'm proficient in authoring tools like ClickHelp, Oxygen XML, and Adobe RoboHelp.
+With over nine years of experience in technical writing and documentation management, I specialize in crafting comprehensive user manuals, detailed release notes, SOPs, feature documentation and quick reference guides. I'm proficient in authoring tools like ClickHelp, Oxygen XML, and Adobe RoboHelp.
 
 Throughout my work history, I've produced precise and on-time technical documentation even when handling multiple projects and collaborating with cross-functional teams. I have demonstrated success in training and mentoring new hires to improve efficiency and boost productivity.
 
