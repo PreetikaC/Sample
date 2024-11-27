@@ -40,15 +40,14 @@ ___
 ___
 ## Key Responsibilities
 
-- Efficiently handled a team of 2 members and provided them guidance to achieve the team’s goals.
+- Supervised and mentored a team of 2 writers, providing them guidance to achieve the team’s goals.
 - Managed complete documentation of User Guides using Adobe RoboHelp, Help+Manual, Adobe Photoshop, and SnagIT.
-- Produced content for documentation as per the company’s standards and processes. 
+- Produced documentation content as per the company’s standards and processes. 
 - Proofreaded UI text and Web help for localization into FRENCH, GERMAN, ITALIAN, and SPANISH.
 - Participated in technical reviews of authored content.
-- Updated documentation on a regular basis to reflect the changes in the product.
+- Updated product documentation regularly to align with the latest product enhancements and updates.
 - Worked closely with the distributed teams (Development, Test, and Product Management) for information to ensure technical accuracy.
-- Prepared and reviewed documentation plans for the products.
-- Participated in Usability discussions for products.
+- Prepared and reviewed documentation plans for the products and actively participated in Usability discussions for products. 
 
 ---
 ## Tools Used                                                         
