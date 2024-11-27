@@ -23,6 +23,8 @@ ___
 ## Key Responsibilities
 
 - 100% timely delivery of documents such as Release Notes, User Manuals, Feature Docs, and SOPs as per the requirements requested by stakeholders. This was achieved through minimal iterations.
+- Increased user engagement and satisfaction by 30% by designing and implementing customer-specific portals in ClickHelp, customizing content, access controls, and branding to align with client needs and preferences.
+- Improved documentation security and efficiency by 40% by configuring role-based access controls in ClickHelp, ensuring the appropriate user permissions and delivering tailored content based on individual needs.
 - Engaged in peer reviews with new hires, reduced their onboarding time by 20%, and helped them become proficient writers at my current organization.
 - Ensured 100% technical accuracy by leveraging proficient collaborative skills with cross-functional teams (development, verification, installation).
 - Aced project management skills to be able to handle multiple projects.
@@ -39,7 +41,7 @@ ___
 ___
 ## Key Responsibilities
 
-- Efficiently handled a team of  2 members and provided them guidance to achieve the team’s goals.
+- Efficiently handled a team of 2 members and provided them guidance to achieve the team’s goals.
 - Managed complete documentation of User Guides using Adobe RoboHelp, Help+Manual, Adobe Photoshop, and SnagIT.
 - Produced content for documentation as per the company’s standards and processes. 
 - Proofreaded UI text and Web help for localization into FRENCH, GERMAN, ITALIAN, and SPANISH.
